@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C9F30333-4E96-7A99-0D7C-4A9BC695AF6D}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		}
+	]
+}

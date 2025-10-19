@@ -68,8 +68,7 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/**/Intermediate/*
-
-# Cache files for the editor to use
-DerivedDataCache/*
+/EpicJam2025/Plugins/**/Intermediate/*
+/EpicJam2025/Intermediate/*
+/EpicJam2025/Saved/*
+/EpicJam2025/DerivedDataCache/*
